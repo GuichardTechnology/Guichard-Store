@@ -5,6 +5,7 @@
     padding: 0;
     list-style: none;
     box-sizing: border-box;
+    
 }
 
 html{
@@ -16,6 +17,7 @@ body{
    
     font-family:"poppins" , sans-serif;
     background-color: #dcdfe6;
+    overflow-x: hidden;
 }
 
 main{

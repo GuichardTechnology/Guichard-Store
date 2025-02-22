@@ -3,6 +3,7 @@
   color: #dcdfe6;
   padding: 10px 0;
   text-align: center;
+  
 }
 
 .image-delivery {
@@ -24,6 +25,7 @@ header .header-main {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 
 }
 
@@ -245,7 +247,7 @@ header .header-main {
       /* Terminer à gauche */
     }
   }
-
+    
 
 
 
